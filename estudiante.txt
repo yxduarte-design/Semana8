@@ -1,0 +1,4 @@
+Nombre: Yarosky Xaviera
+Apellidos: Duarte Vargas
+Edad: 18
+Carrera: Ingeniera De Sistemas

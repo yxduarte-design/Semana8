@@ -1,0 +1,11 @@
+=== REPORTE DE NOTAS DEL ESTUDIANTE ===
+
+Notas ingresadas:
+  - Nota 1: 90.00
+  - Nota 2: 80.00
+  - Nota 3: 98.00
+
+=== RESUMEN ===
+Promedio general: 89.33
+Nota mayor: 98.00
+Nota menor: 80.00
